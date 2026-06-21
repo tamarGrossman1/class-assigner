@@ -1,0 +1,11 @@
+# גרסאות מותאמות ל-Python 3.14 (הגרסאות הישנות שהופיעו ב-installation.md
+# לא כללו wheels ל-Python 3.14; עודכנו לגרסאות תואמות עדכניות).
+fastapi==0.138.0
+uvicorn[standard]==0.49.0
+anthropic==0.111.0
+openpyxl==3.1.5
+python-dotenv==1.2.2
+pydantic==2.13.4
+python-multipart==0.0.32
+ortools==9.15.6755
+reportlab==5.0.0
